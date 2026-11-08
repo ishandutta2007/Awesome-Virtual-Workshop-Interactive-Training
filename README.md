@@ -58,77 +58,77 @@ Commercial cloud solutions ranked in descending order by estimated company valua
 
 Community-driven, self-hosted alternatives for workshops, visual collaboration, live audience feedback, and interactive learning. Sorted in descending order by GitHub stargazers count.
 
-### 1. [Excalidraw](https://github.com/excalidraw/excalidraw) [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)
+### 1. [Excalidraw](https://github.com/excalidraw/excalidraw) [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)
 * **Stack:** TypeScript, React, Canvas API | **License:** MIT  
 * **Type:** 🎨 Virtual Whiteboard & Sketching Canvas  
 * **Overview:** The premier open-source virtual whiteboard with a signature hand-drawn aesthetic. Features real-time end-to-end encrypted collaboration, infinite canvas, custom component libraries, export to SVG/PNG, and self-hostable Docker images. Extensively used in remote design sprints, engineering architecture reviews, and interactive coaching sessions.
 
-### 2. [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
+### 2. [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
 * **Stack:** TypeScript, Rust, React | **License:** MIT  
 * **Type:** 📝 All-in-One Workspace & Infinite Whiteboard  
 * **Overview:** A modern, privacy-first workspace uniting structured markdown notes, Kanban task boards, and an unbounded whiteboard canvas on a single page. Fully local-first and self-hostable via Docker, making it ideal for facilitators who want unified agendas, participant note-taking, and brainstorming exercises without SaaS vendor lock-in.
 
-### 3. [tldraw](https://github.com/tldraw/tldraw) [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)
+### 3. [tldraw](https://github.com/tldraw/tldraw) [![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)
 * **Stack:** TypeScript, React | **License:** Apache-2.0 / Custom  
 * **Type:** 🖌️ Infinite Collaborative Canvas & SDK  
 * **Overview:** A collaborative digital whiteboard with multiplayer multiplayer state synchronization, rich shape primitives, sticky notes, frames, and an embeddable canvas engine. Highly extensible for creating custom workshop facilitation templates and proprietary interactive training toolkits.
 
-### 4. [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) [![GitHub stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers)
+### 4. [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) [![GitHub_Stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers)
 * **Stack:** Scala, Java, JavaScript, WebRTC | **License:** LGPL-3.0  
 * **Type:** 🎓 Virtual Classroom & Interactive Training Web Conferencing  
 * **Overview:** Enterprise-grade open-source virtual classroom platform built specifically for online learning and training. Includes multi-user whiteboard sharing, breakout rooms, integrated polling, public and private chat, screen sharing, and emoji feedback indicators.
 
-### 5. [draw.io (diagrams.net)](https://github.com/jgraph/drawio) [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)
+### 5. [draw.io (diagrams.net)](https://github.com/jgraph/drawio) [![GitHub_Stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)
 * **Stack:** JavaScript, Electron, HTML5 | **License:** Apache-2.0  
 * **Type:** 📐 Diagramming & Technical Facilitation  
 * **Overview:** Industry-standard diagramming suite supporting flowcharts, swimlane diagrams, process maps, and architecture schemas. Runs client-side or self-hosted with zero user tracking, complete offline capability, and integration into Google Drive, OneDrive, and Nextcloud.
 
-### 6. [Whitebophir (WBO)](https://github.com/lovasoa/whitebophir) [![GitHub stars](https://img.shields.io/github/stars/lovasoa/whitebophir?style=social&color=white)](https://github.com/lovasoa/whitebophir/stargazers)
+### 6. [Whitebophir (WBO)](https://github.com/lovasoa/whitebophir) [![GitHub_Stars](https://img.shields.io/github/stars/lovasoa/whitebophir?style=social&color=white)](https://github.com/lovasoa/whitebophir/stargazers)
 * **Stack:** Node.js, JavaScript, HTML5 Canvas | **License:** AGPL-3.0  
 * **Type:** 🖊️ Lightweight Real-time Collaborative Whiteboard  
 * **Overview:** A minimalist, zero-bloat collaborative whiteboard server where multiple users can draw, write, and drop images simultaneously on an unbounded canvas with real-time websocket synchronization. Perfect for low-bandwidth workshops and instant ad-hoc breakout sketch sessions.
 
-### 7. [Claper](https://github.com/ClaperCo/Claper) [![GitHub stars](https://img.shields.io/github/stars/ClaperCo/Claper?style=social&color=white)](https://github.com/ClaperCo/Claper/stargazers)
+### 7. [Claper](https://github.com/ClaperCo/Claper) [![GitHub_Stars](https://img.shields.io/github/stars/ClaperCo/Claper?style=social&color=white)](https://github.com/ClaperCo/Claper/stargazers)
 * **Stack:** Elixir, Phoenix, LiveView, TailwindCSS | **License:** AGPL-3.0  
 * **Type:** 📊 Interactive Presentation & Audience Engagement  
 * **Overview:** Modern, open-source alternative to Slido and Mentimeter. Presenters upload presentations and interact with the audience via live polls, emoji reactions, upvoted Q&A sessions, and gamified quizzes directly in participants' mobile browsers without app downloads.
 
-### 8. [ClassQuiz](https://github.com/mawoka-myblock/ClassQuiz) [![GitHub stars](https://img.shields.io/github/stars/mawoka-myblock/ClassQuiz?style=social&color=white)](https://github.com/mawoka-myblock/ClassQuiz/stargazers)
+### 8. [ClassQuiz](https://github.com/mawoka-myblock/ClassQuiz) [![GitHub_Stars](https://img.shields.io/github/stars/mawoka-myblock/ClassQuiz?style=social&color=white)](https://github.com/mawoka-myblock/ClassQuiz/stargazers)
 * **Stack:** Python, Svelte, Rust, PostgreSQL | **License:** MPL-2.0  
 * **Type:** 🎯 Gamified Quiz Platform  
 * **Overview:** A self-hostable Kahoot! alternative tailored for educators, corporate workshops, and live seminar icebreakers. Facilitators launch timed multiple-choice questions, award points based on speed and accuracy, and project a real-time competitive leaderboard to motivate engagement.
 
-### 9. [Educates](https://github.com/educates/educates-training-platform) [![GitHub stars](https://img.shields.io/github/stars/educates/educates-training-platform?style=social&color=white)](https://github.com/educates/educates-training-platform/stargazers)
+### 9. [Educates](https://github.com/educates/educates-training-platform) [![GitHub_Stars](https://img.shields.io/github/stars/educates/educates-training-platform?style=social&color=white)](https://github.com/educates/educates-training-platform/stargazers)
 * **Stack:** Go, Kubernetes, Docker, Python | **License:** Apache-2.0  
 * **Type:** 💻 Hands-on Interactive Technical Labs  
 * **Overview:** Purpose-built platform for hosting scalable, hands-on technical workshops and bootcamps. Deploys containerized sandbox environments for each attendee on Kubernetes, featuring side-by-side terminal consoles, an embedded VS Code IDE, and Markdown instruction cards.
 
-### 10. [NeoBoard](https://github.com/nordeck/matrix-neoboard) [![GitHub stars](https://img.shields.io/github/stars/nordeck/matrix-neoboard?style=social&color=white)](https://github.com/nordeck/matrix-neoboard/stargazers)
+### 10. [NeoBoard](https://github.com/nordeck/matrix-neoboard) [![GitHub_Stars](https://img.shields.io/github/stars/nordeck/matrix-neoboard?style=social&color=white)](https://github.com/nordeck/matrix-neoboard/stargazers)
 * **Stack:** TypeScript, React, Matrix Widget API | **License:** Apache-2.0  
 * **Type:** 🛡️ Secure Whiteboard Widget for Matrix / Element  
 * **Overview:** A collaborative whiteboard widget developed by Nordeck for the Matrix protocol. Enables teams, government entities, and enterprises to conduct visual brainstorming, planning, and interactive workshops with strict end-to-end security and data residency compliance.
 
-### 11. [SessionPlaner](https://github.com/evoWeb/sessionplaner) [![GitHub stars](https://img.shields.io/github/stars/evoWeb/sessionplaner?style=social&color=white)](https://github.com/evoWeb/sessionplaner/stargazers)
+### 11. [SessionPlaner](https://github.com/evoWeb/sessionplaner) [![GitHub_Stars](https://img.shields.io/github/stars/evoWeb/sessionplaner?style=social&color=white)](https://github.com/evoWeb/sessionplaner/stargazers)
 * **Stack:** PHP, TypeScript, Fluid | **License:** GPL-2.0  
 * **Type:** 📅 Workshop Session & BarCamp Planner  
 * **Overview:** An open-source session scheduler specifically designed for unconferences, BarCamps, agile training days, and multi-track community workshops. Manages time slots, rooms, facilitator schedules, and attendee voting on proposed topics.
 
-### 12. [SessionPlan](https://github.com/tim-peters/sessionplan) [![GitHub stars](https://img.shields.io/github/stars/tim-peters/sessionplan?style=social&color=white)](https://github.com/tim-peters/sessionplan/stargazers)
+### 12. [SessionPlan](https://github.com/tim-peters/sessionplan) [![GitHub_Stars](https://img.shields.io/github/stars/tim-peters/sessionplan?style=social&color=white)](https://github.com/tim-peters/sessionplan/stargazers)
 * **Stack:** HTML5, JavaScript, URL State Encoding | **License:** MIT  
 * **Type:** ⏱️ Client-Side Session & Agenda Planner  
 * **Overview:** A zero-backend, privacy-first alternative to SessionLab where workshop agenda timelines, activity blocks, and timing adjustments are encoded entirely within the browser URL. No accounts, cookies, or database requirements.
 
-### 13. [OpenFresque Event Manager](https://github.com/openfresque/event-manager-core) [![GitHub stars](https://img.shields.io/github/stars/openfresque/event-manager-core?style=social&color=white)](https://github.com/openfresque/event-manager-core/stargazers)
+### 13. [OpenFresque Event Manager](https://github.com/openfresque/event-manager-core) [![GitHub_Stars](https://img.shields.io/github/stars/openfresque/event-manager-core?style=social&color=white)](https://github.com/openfresque/event-manager-core/stargazers)
 * **Stack:** Ruby on Rails, PostgreSQL | **License:** AGPL-3.0  
 * **Type:** 🌿 Workshop Management & Facilitation Logistics  
 * **Overview:** Built by the OpenFresque community for non-profit organizations and collective-intelligence workshops (such as Climate Fresk sessions). Manages workshop ticketing, facilitator assignment, participant onboarding, and collaborative exercise scheduling.
 
-### 14. [open.mentimeter](https://github.com/Rishi-ZAiFi/open.mentimeter) [![GitHub stars](https://img.shields.io/github/stars/Rishi-ZAiFi/open.mentimeter?style=social&color=white)](https://github.com/Rishi-ZAiFi/open.mentimeter/stargazers)
+### 14. [open.mentimeter](https://github.com/Rishi-ZAiFi/open.mentimeter) [![GitHub_Stars](https://img.shields.io/github/stars/Rishi-ZAiFi/open.mentimeter?style=social&color=white)](https://github.com/Rishi-ZAiFi/open.mentimeter/stargazers)
 * **Stack:** React, Node.js, Socket.io | **License:** MIT  
 * **Type:** 📡 Air-Gapped Local-Network Audience Polling  
 * **Overview:** A local-first audience interaction app that runs offline over Wi-Fi or LAN. Allows speakers and corporate trainers to conduct live word clouds, Q&A upvoting, and quizzes in classified or air-gapped workshop spaces with zero internet reliance.
 
-### 15. [Nextcloud Pulse](https://github.com/hotochan123/nextcloud-pulse) [![GitHub stars](https://img.shields.io/github/stars/hotochan123/nextcloud-pulse?style=social&color=white)](https://github.com/hotochan123/nextcloud-pulse/stargazers)
+### 15. [Nextcloud Pulse](https://github.com/hotochan123/nextcloud-pulse) [![GitHub_Stars](https://img.shields.io/github/stars/hotochan123/nextcloud-pulse?style=social&color=white)](https://github.com/hotochan123/nextcloud-pulse/stargazers)
 * **Stack:** PHP, Vue.js, Nextcloud App API | **License:** AGPL-3.0  
 * **Type:** ☁️ Nextcloud Integrated Live Polls & Quizzes  
 * **Overview:** An open-source interactive polling and quiz app embedded inside self-hosted Nextcloud instances. Generates live QR codes for attendee smartphone check-in, dynamic ranking questions, and leaderboards without relying on external cloud providers.
@@ -194,7 +194,7 @@ Contributions are warmly welcomed! Help us keep this directory up-to-date and re
 
 1. 🍴 **Fork** the repository.
 2. 🌿 **Create** a descriptive branch (`git checkout -b feature/add-new-tool`).
-3. ✏️ **Add** the tool with its official GitHub link, star badge, tech stack, license, and unique value proposition.
+3. ✏️ **Add** the tool with its official GitHub link, Stars_Badge, tech stack, license, and unique value proposition.
 4. 🔄 **Submit** a Pull Request with a short summary of why the platform stands out.
 
 Please ensure all submitted open-source projects are actively maintained (commit activity or releases within the past 12 months).
