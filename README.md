@@ -6,10 +6,12 @@
 
 # 🚀 Awesome Virtual Workshop & Interactive Training 🎓
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Virtual-Workshop-Interactive-Training/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Virtual-Workshop-Interactive-Training)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **A comprehensive, curated directory of the world's best Virtual Workshop and Interactive Training platforms.** Discover enterprise SaaS facilitators, real-time visual collaboration canvases, interactive quizzes, live audience polling, and 100% self-hosted, privacy-first open-source alternatives.
 
@@ -23,6 +25,8 @@
 - [📊 Comprehensive Comparison at a Glance](#-comprehensive-comparison-at-a-glance)
 - [🎯 Choosing the Right Stack for Your Workshop](#-choosing-the-right-stack-for-your-workshop)
 - [🤝 Contributing](#-contributing)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -194,6 +198,23 @@ Contributions are warmly welcomed! Help us keep this directory up-to-date and re
 4. 🔄 **Submit** a Pull Request with a short summary of why the platform stands out.
 
 Please ensure all submitted open-source projects are actively maintained (commit activity or releases within the past 12 months).
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing this curated repository! If this guide helped you discover the perfect virtual workshop tool, collaborative whiteboard, or interactive quiz platform for your team or organization, please consider supporting the project:
+
+- ⭐ **Star** this repository to increase visibility and help other facilitators find it.
+- 🍴 **Fork** and contribute open-source tools or submit updates to keep data fresh.
+- 📢 **Share** this list with fellow trainers, agile coaches, and educators.
+- ☕ **Buy me a coffee / Sponsor:** If you'd like to support ongoing research and open-source maintenance, please visit my [**GitHub Sponsor Dashboard**](https://github.com/sponsors/ishandutta2007). Your support is greatly appreciated!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Virtual-Workshop-Interactive-Training&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Virtual-Workshop-Interactive-Training&type=date&legend=top-left)
 
 ---
 
