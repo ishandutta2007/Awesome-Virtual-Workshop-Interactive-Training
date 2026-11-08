@@ -1,153 +1,209 @@
 # Awesome-Virtual-Workshop-Interactive-Training
 
-# Awesome Virtual Workshop & Interactive Training
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Virtual Workshop &amp; Interactive Training Banner" width="100%" />
+</p>
 
-> A curated list of top Virtual Workshop and Interactive Training platforms — both SaaS/Hosted commercial solutions and open-source alternatives for collaborative whiteboarding, live polling, quizzes, and session planning.  
-> 🌟 Star this repo if you find it useful! 🌟
+# 🚀 Awesome Virtual Workshop & Interactive Training 🎓
 
----
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Virtual-Workshop-Interactive-Training/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Virtual-Workshop-Interactive-Training)
 
-## 📋 Table of Contents
-
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [Miro](#miro)
-  - [Mural](#mural)
-  - [Kahoot! 360](#kahoot-360)
-  - [Mentimeter](#mentimeter)
-  - [Slido](#slido)
-  - [SessionLab](#sessionlab)
-- [Open-Source Software](#-open-source-software)
-  - [draw.io (diagrams.net)](#drawio-diagramsnet)
-  - [AFFiNE](#affine)
-  - [NeoBoard (NeoToolSuite)](#neoboard-neotoolsuite)
-  - [Pulse (Nextcloud)](#pulse-nextcloud)
-  - [ClassQuiz](#classquiz)
-  - [Claper](#claper)
-  - [open.mentimeter](#openmentimeter)
-  - [Educates](#educates)
-  - [OpenFresk](#openfresk)
-  - [SessionPlan](#sessionplan)
-- [Comparison at a Glance](#-comparison-at-a-glance)
-- [Contributing](#-contributing)
+> 🌟 **A comprehensive, curated directory of the world's best Virtual Workshop and Interactive Training platforms.** Discover enterprise SaaS facilitators, real-time visual collaboration canvases, interactive quizzes, live audience polling, and 100% self-hosted, privacy-first open-source alternatives.
 
 ---
 
-## 🟦 SaaS / Hosted Platforms
+## 📑 Table of Contents
 
-Commercial, cloud-hosted Virtual Workshop and Interactive Training platforms. These are not open-source but are included as reference points for feature comparison.
-
-### Miro
-**Type:** Collaborative whiteboard and visual workspace  
-Miro is the most widely adopted virtual whiteboard for workshops, brainstorming, and remote collaboration. It offers an infinite canvas, templates, sticky notes, voting, timers, and integrations with video conferencing tools. It is the de facto standard for facilitators running visual sessions online [citation:10].
-
-### Mural
-**Type:** Visual collaboration and whiteboarding  
-Mural provides a digital whiteboard designed for design thinking, agile ceremonies, and workshop facilitation. It includes structured templates, facilitation features like private mode and timers, and integrations with tools like Jira and Slack. Often compared directly against Miro as a primary alternative [citation:1].
-
-### Kahoot! 360
-**Type:** Gamified quizzes and interactive training  
-Kahoot! is the leading gamified quiz platform for live training, workshops, and classrooms. Participants join via a PIN on their own devices and compete on a leaderboard. Kahoot! 360 adds corporate training features, advanced reporting, and integrations for enterprise learning and development.
-
-### Mentimeter
-**Type:** Live polling and audience interaction  
-Mentimeter lets presenters create interactive slides with polls, word clouds, quizzes, and Q&A that audiences respond to from their phones. It is widely used in workshops, training sessions, and conferences to gather real-time input and engagement.
-
-### Slido
-**Type:** Q&A and live polling for meetings  
-Slido (now part of Cisco) focuses on live Q&A, polls, and quizzes that integrate directly into video conferencing tools like Zoom, Teams, and Webex. It is commonly used in virtual workshops and training sessions to keep audiences engaged and collect questions.
-
-### SessionLab
-**Type:** Workshop and training session planning  
-SessionLab is a dedicated tool for designing workshop agendas and training flows. It provides a library of facilitation methods and templates, drag-and-drop timeline planning, and automatic time recalculation when activities are adjusted. A free tier is available [citation:10][citation:11].
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [🔓 Open-Source Software](#-open-source-software)
+- [📊 Comprehensive Comparison at a Glance](#-comprehensive-comparison-at-a-glance)
+- [🎯 Choosing the Right Stack for Your Workshop](#-choosing-the-right-stack-for-your-workshop)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
-## 🟩 Open-Source Software
+## 🌐 Sector Overview & Market Dynamics
 
-Self-hosted, community-driven Virtual Workshop and Interactive Training tools. The open-source ecosystem is fragmented across whiteboarding, polling, quizzes, and session planning rather than unified workshop suites.
+The global market for virtual workshops, interactive training, and enterprise e-learning is valued at approximately **$150B–$157B in 2026** (with related virtual event platforms and immersive training expanding toward **$335B+ by 2030** at an annual CAGR exceeding 18–21%). 
 
-### draw.io (diagrams.net)
-**Stack:** JavaScript / Electron | **License:** Apache-2.0  
-A feature-rich diagram editor with real-time collaboration, offline usage, and cloud storage support [citation:1]. While not a full workshop platform, it provides a free and open-source alternative to Miro/Mural for creating flowcharts, network diagrams, and structured visual content during workshops. No registration required and no user tracking.
-
-### AFFiNE
-**Stack:** TypeScript | **License:** MIT  
-An open-source, privacy-focused workspace combining note-taking, project management, Kanban boards, and an interactive whiteboard [citation:1][citation:7]. Positioned as a hybrid of Notion and Miro, it can be self-hosted for complete data control and runs smoothly offline. Still maturing (mobile experience and integrations are less developed than commercial tools), but offers a unified workspace for workshops that need both documentation and visual collaboration.
-
-### NeoBoard (NeoToolSuite)
-**Stack:** (Check repository) | **License:** Open Source (free for private use)  
-A collaborative whiteboard widget for Element (Matrix) messenger, enabling brainstorming, presentations, training sessions, and process documentation directly within a secure messaging environment [citation:5]. Supports parallel and asynchronous collaboration, with boards usable as standalone applications. Commercial and on-premise hosting require contacting the vendor.
-
-### Pulse (Nextcloud)
-**Stack:** PHP / JavaScript | **License:** Open Source (Nextcloud app)  
-A self-hosted alternative to Kahoot!, Mentimeter, and Slido that runs inside Nextcloud [citation:8]. Supports live polls (multiple choice, word clouds, scales, ranking), quizzes with nicknames and leaderboards, and presenter views with QR codes. **Important caveat:** The app is explicitly labeled as "vibe-coded" — written by AI coding agents without independent human code review or security audit. Evaluate before relying on it for sensitive sessions [citation:8].
-
-### ClassQuiz
-**Stack:** (Check repository) | **License:** MPL-2.0  
-An open-source Kahoot! alternative designed primarily for teachers and educational settings [citation:9][citation:15]. Users can create quizzes and play them remotely with others. One of the more established open-source quiz platforms, with 733 GitHub stars as of late 2026 [citation:9].
-
-### Claper
-**Stack:** (Check repository) | **License:** (Check repository)  
-An open-source audience interaction tool positioned as an alternative to Slido, AhaSlides, and Mentimeter [citation:2]. Supports live polls and audience engagement during presentations. Available for self-hosting.
-
-### open.mentimeter
-**Stack:** React / Node.js / Socket.io | **License:** MIT  
-A local-first Mentimeter alternative designed to run entirely over a local network with zero cloud dependencies [citation:14]. The presenter's laptop acts as the server; participants connect via browser. Features include live multiple-choice quizzes with speed bonuses, word clouds, Q&A with upvoting, a presenter remote view, and Excel export. Ideal for offline or privacy-sensitive training environments.
-
-### Educates
-**Stack:** Go / Kubernetes | **License:** Apache-2.0  
-A platform for hosting hands-on, interactive workshop environments where each participant gets an isolated session with step-by-step instructions, integrated terminals, and an embedded VS Code editor [citation:6]. Workshop content is authored in Markdown and can be deployed on Kubernetes at scale or locally with Docker. Suited for technical training (Kubernetes, DevOps, programming) rather than general facilitation workshops.
-
-### OpenFresk
-**Stack:** Ruby on Rails / PostgreSQL | **License:** MIT  
-A self-hosted platform for deploying and managing interactive "Fresque" workshops for non-profit organizations [citation:12]. Supports workshop scheduling, participant registration, ticketing/payments (Stripe, PayPal), and collaborative exercises with feedback collection. **Caveat:** Last release was a year ago with no active maintainers listed, so evaluate maintenance status before production use [citation:12].
-
-### SessionPlan
-**Stack:** Web (URL-based) | **License:** Open Source (per project)  
-A free, privacy-first alternative to SessionLab where the entire workshop plan is stored in the URL itself — no account, no server, no tracking [citation:11]. Provides a visual timeline with drag-and-drop blocks that auto-adjust times. Still rough around the edges but functional for facilitators wanting a zero-overhead planning tool.
+The sector exhibits **moderate fragmentation across functional sub-categories** rather than a single winner-take-all monopoly: while visual whiteboarding demonstrates high consolidation around a few dominant category leaders (e.g., Miro and Mural) and live video conferencing is anchored by giants (Zoom, Microsoft Teams, Cisco Webex), audience engagement, interactive gamification, technical hands-on sandboxes, and agenda orchestration remain vibrantly fragmented with fast-growing specialized SaaS vendors and privacy-conscious open-source projects.
 
 ---
 
-## 📊 Comparison at a Glance
+## 🏢 SaaS & Hosted Commercial Platforms
 
-| Software | License | Type | Self-Hosted | Best For |
-|----------|---------|------|-------------|----------|
-| **Miro** | Proprietary | Whiteboard | ❌ | General visual collaboration |
-| **Mural** | Proprietary | Whiteboard | ❌ | Design thinking workshops |
-| **Kahoot! 360** | Proprietary | Gamified quizzes | ❌ | Corporate training quizzes |
-| **Mentimeter** | Proprietary | Live polling | ❌ | Audience interaction |
-| **Slido** | Proprietary | Q&A + polls | ❌ | Meeting engagement |
-| **SessionLab** | Proprietary | Session planning | ❌ | Workshop agenda design |
-| **draw.io** | Apache-2.0 | Diagramming | ✅ | Visual diagrams in workshops |
-| **AFFiNE** | MIT | Workspace + whiteboard | ✅ | Notes + visuals combined |
-| **NeoBoard** | Open Source | Whiteboard widget | ✅ (private) | Element/Matrix users |
-| **Pulse** | Open Source | Polls + quizzes | ✅ (Nextcloud) | Kahoot/Menti alternative |
-| **ClassQuiz** | MPL-2.0 | Quizzes | ✅ | Education-focused quizzes |
-| **Claper** | Open Source | Audience interaction | ✅ | Slido alternative |
-| **open.mentimeter** | MIT | Local polls/quizzes | ✅ (local network) | Offline/privacy training |
-| **Educates** | Apache-2.0 | Hands-on labs | ✅ (K8s) | Technical training |
-| **OpenFresk** | MIT | Workshop management | ✅ | Non-profit Fresque workshops |
-| **SessionPlan** | Open Source | Session planning | ✅ (URL) | Privacy-first agenda design |
+Commercial cloud solutions ranked in descending order by estimated company valuation / scale and annual recurring revenue (ARR).
+
+| Product | Company Scale / Valuation / ARR | Category | Starting Paid Tier Pricing | Free Tier / Trial Limits | Key Highlights |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [**Miro**](https://miro.com/) | **~$17.5B Valuation** (~$600M+ ARR, 100M+ users) | 🎨 Collaborative Whiteboard | **$8 / member / month** (billed annually at $96/yr) | **Free Forever:** Unlimited team members, but strictly limited to **3 editable boards** (older boards convert to view-only) | Infinite collaborative canvas, massive template library, built-in voting, timers, video chat, and enterprise integrations. |
+| [**Kahoot! 360**](https://kahoot.com/business/) | **$1.7B Valuation** (Acquired private by Goldman Sachs / KIRKBI) | 🎮 Gamified Quizzes & Training | **$19 / host / month** (billed annually at $228/yr for standard business tier) | **Free Forever (Kahoot! Basic):** Unlimited self-created quizzes, but capped at **10 live participants per session** | Gold standard for gamified learning, live leaderboards, employee onboarding challenges, and mobile microlearning. |
+| [**Mural**](https://mural.co/) | **$2.0B Valuation** (~$125M–$189M ARR) | 🎨 Collaborative Whiteboard | **$9.99 / member / month** (billed annually at $119.88/yr) | **Free Forever:** Unlimited team members & visitors, but restricted to **3 active editable murals** | Facilitation superpower features: private mode, custom timers, design-thinking workflows, and agile sprint ceremonies. |
+| [**Slido**](https://www.slido.com/) | **Acquired by Cisco** (Part of Cisco Webex Collaboration Suite) | 📊 Live Polling & Q&A | **$12.50 / month** ($150 / year billed annually for Engage plan) | **Free Forever (Basic):** Up to **100 participants per event**, unlimited Q&A, and up to **3 polls per event** | Seamless native integration into Zoom, Webex, and Microsoft Teams for crowdsourced live Q&A, rating polls, and word clouds. |
+| [**Mentimeter**](https://www.mentimeter.com/) | **~$100M+ Scale** (Profitable European SaaS scale-up, >$50M ARR) | 📈 Interactive Presentations & Polls | **$11.99 / presenter / month** (billed annually at $143.88/yr for Basic) | **Free Forever:** Unlimited presentations and slides, but strictly capped at **50 participants / month** | Turn passive presentations into interactive dialogues with live smartphone voting, quiz competitions, and word clouds. |
+| [**SessionLab**](https://www.sessionlab.com/) | **Bootstrapped / Early VC** (TinySeed / Startup Wise Guys portfolio) | ⏱️ Workshop Agenda Orchestration | **$9 / month** (billed annually at $108/yr for Individual plan) | **Free Forever:** 1 workspace with up to **3 active session plans** and 50 AI requests (view-only sharing; no real-time co-editing) | Visual drag-and-drop agenda designer with dynamic auto-recalculating time blocks and an expansive library of facilitation exercises. |
+
+---
+
+## 🔓 Open-Source Software
+
+Community-driven, self-hosted alternatives for workshops, visual collaboration, live audience feedback, and interactive learning. Sorted in descending order by GitHub stargazers count.
+
+### 1. [Excalidraw](https://github.com/excalidraw/excalidraw) [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)
+* **Stack:** TypeScript, React, Canvas API | **License:** MIT  
+* **Type:** 🎨 Virtual Whiteboard & Sketching Canvas  
+* **Overview:** The premier open-source virtual whiteboard with a signature hand-drawn aesthetic. Features real-time end-to-end encrypted collaboration, infinite canvas, custom component libraries, export to SVG/PNG, and self-hostable Docker images. Extensively used in remote design sprints, engineering architecture reviews, and interactive coaching sessions.
+
+### 2. [AFFiNE](https://github.com/toeverything/AFFiNE) [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
+* **Stack:** TypeScript, Rust, React | **License:** MIT  
+* **Type:** 📝 All-in-One Workspace & Infinite Whiteboard  
+* **Overview:** A modern, privacy-first workspace uniting structured markdown notes, Kanban task boards, and an unbounded whiteboard canvas on a single page. Fully local-first and self-hostable via Docker, making it ideal for facilitators who want unified agendas, participant note-taking, and brainstorming exercises without SaaS vendor lock-in.
+
+### 3. [tldraw](https://github.com/tldraw/tldraw) [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)
+* **Stack:** TypeScript, React | **License:** Apache-2.0 / Custom  
+* **Type:** 🖌️ Infinite Collaborative Canvas & SDK  
+* **Overview:** A collaborative digital whiteboard with multiplayer multiplayer state synchronization, rich shape primitives, sticky notes, frames, and an embeddable canvas engine. Highly extensible for creating custom workshop facilitation templates and proprietary interactive training toolkits.
+
+### 4. [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) [![GitHub stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers)
+* **Stack:** Scala, Java, JavaScript, WebRTC | **License:** LGPL-3.0  
+* **Type:** 🎓 Virtual Classroom & Interactive Training Web Conferencing  
+* **Overview:** Enterprise-grade open-source virtual classroom platform built specifically for online learning and training. Includes multi-user whiteboard sharing, breakout rooms, integrated polling, public and private chat, screen sharing, and emoji feedback indicators.
+
+### 5. [draw.io (diagrams.net)](https://github.com/jgraph/drawio) [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)
+* **Stack:** JavaScript, Electron, HTML5 | **License:** Apache-2.0  
+* **Type:** 📐 Diagramming & Technical Facilitation  
+* **Overview:** Industry-standard diagramming suite supporting flowcharts, swimlane diagrams, process maps, and architecture schemas. Runs client-side or self-hosted with zero user tracking, complete offline capability, and integration into Google Drive, OneDrive, and Nextcloud.
+
+### 6. [Whitebophir (WBO)](https://github.com/lovasoa/whitebophir) [![GitHub stars](https://img.shields.io/github/stars/lovasoa/whitebophir?style=social&color=white)](https://github.com/lovasoa/whitebophir/stargazers)
+* **Stack:** Node.js, JavaScript, HTML5 Canvas | **License:** AGPL-3.0  
+* **Type:** 🖊️ Lightweight Real-time Collaborative Whiteboard  
+* **Overview:** A minimalist, zero-bloat collaborative whiteboard server where multiple users can draw, write, and drop images simultaneously on an unbounded canvas with real-time websocket synchronization. Perfect for low-bandwidth workshops and instant ad-hoc breakout sketch sessions.
+
+### 7. [Claper](https://github.com/ClaperCo/Claper) [![GitHub stars](https://img.shields.io/github/stars/ClaperCo/Claper?style=social&color=white)](https://github.com/ClaperCo/Claper/stargazers)
+* **Stack:** Elixir, Phoenix, LiveView, TailwindCSS | **License:** AGPL-3.0  
+* **Type:** 📊 Interactive Presentation & Audience Engagement  
+* **Overview:** Modern, open-source alternative to Slido and Mentimeter. Presenters upload presentations and interact with the audience via live polls, emoji reactions, upvoted Q&A sessions, and gamified quizzes directly in participants' mobile browsers without app downloads.
+
+### 8. [ClassQuiz](https://github.com/mawoka-myblock/ClassQuiz) [![GitHub stars](https://img.shields.io/github/stars/mawoka-myblock/ClassQuiz?style=social&color=white)](https://github.com/mawoka-myblock/ClassQuiz/stargazers)
+* **Stack:** Python, Svelte, Rust, PostgreSQL | **License:** MPL-2.0  
+* **Type:** 🎯 Gamified Quiz Platform  
+* **Overview:** A self-hostable Kahoot! alternative tailored for educators, corporate workshops, and live seminar icebreakers. Facilitators launch timed multiple-choice questions, award points based on speed and accuracy, and project a real-time competitive leaderboard to motivate engagement.
+
+### 9. [Educates](https://github.com/educates/educates-training-platform) [![GitHub stars](https://img.shields.io/github/stars/educates/educates-training-platform?style=social&color=white)](https://github.com/educates/educates-training-platform/stargazers)
+* **Stack:** Go, Kubernetes, Docker, Python | **License:** Apache-2.0  
+* **Type:** 💻 Hands-on Interactive Technical Labs  
+* **Overview:** Purpose-built platform for hosting scalable, hands-on technical workshops and bootcamps. Deploys containerized sandbox environments for each attendee on Kubernetes, featuring side-by-side terminal consoles, an embedded VS Code IDE, and Markdown instruction cards.
+
+### 10. [NeoBoard](https://github.com/nordeck/matrix-neoboard) [![GitHub stars](https://img.shields.io/github/stars/nordeck/matrix-neoboard?style=social&color=white)](https://github.com/nordeck/matrix-neoboard/stargazers)
+* **Stack:** TypeScript, React, Matrix Widget API | **License:** Apache-2.0  
+* **Type:** 🛡️ Secure Whiteboard Widget for Matrix / Element  
+* **Overview:** A collaborative whiteboard widget developed by Nordeck for the Matrix protocol. Enables teams, government entities, and enterprises to conduct visual brainstorming, planning, and interactive workshops with strict end-to-end security and data residency compliance.
+
+### 11. [SessionPlaner](https://github.com/evoWeb/sessionplaner) [![GitHub stars](https://img.shields.io/github/stars/evoWeb/sessionplaner?style=social&color=white)](https://github.com/evoWeb/sessionplaner/stargazers)
+* **Stack:** PHP, TypeScript, Fluid | **License:** GPL-2.0  
+* **Type:** 📅 Workshop Session & BarCamp Planner  
+* **Overview:** An open-source session scheduler specifically designed for unconferences, BarCamps, agile training days, and multi-track community workshops. Manages time slots, rooms, facilitator schedules, and attendee voting on proposed topics.
+
+### 12. [SessionPlan](https://github.com/tim-peters/sessionplan) [![GitHub stars](https://img.shields.io/github/stars/tim-peters/sessionplan?style=social&color=white)](https://github.com/tim-peters/sessionplan/stargazers)
+* **Stack:** HTML5, JavaScript, URL State Encoding | **License:** MIT  
+* **Type:** ⏱️ Client-Side Session & Agenda Planner  
+* **Overview:** A zero-backend, privacy-first alternative to SessionLab where workshop agenda timelines, activity blocks, and timing adjustments are encoded entirely within the browser URL. No accounts, cookies, or database requirements.
+
+### 13. [OpenFresque Event Manager](https://github.com/openfresque/event-manager-core) [![GitHub stars](https://img.shields.io/github/stars/openfresque/event-manager-core?style=social&color=white)](https://github.com/openfresque/event-manager-core/stargazers)
+* **Stack:** Ruby on Rails, PostgreSQL | **License:** AGPL-3.0  
+* **Type:** 🌿 Workshop Management & Facilitation Logistics  
+* **Overview:** Built by the OpenFresque community for non-profit organizations and collective-intelligence workshops (such as Climate Fresk sessions). Manages workshop ticketing, facilitator assignment, participant onboarding, and collaborative exercise scheduling.
+
+### 14. [open.mentimeter](https://github.com/Rishi-ZAiFi/open.mentimeter) [![GitHub stars](https://img.shields.io/github/stars/Rishi-ZAiFi/open.mentimeter?style=social&color=white)](https://github.com/Rishi-ZAiFi/open.mentimeter/stargazers)
+* **Stack:** React, Node.js, Socket.io | **License:** MIT  
+* **Type:** 📡 Air-Gapped Local-Network Audience Polling  
+* **Overview:** A local-first audience interaction app that runs offline over Wi-Fi or LAN. Allows speakers and corporate trainers to conduct live word clouds, Q&A upvoting, and quizzes in classified or air-gapped workshop spaces with zero internet reliance.
+
+### 15. [Nextcloud Pulse](https://github.com/hotochan123/nextcloud-pulse) [![GitHub stars](https://img.shields.io/github/stars/hotochan123/nextcloud-pulse?style=social&color=white)](https://github.com/hotochan123/nextcloud-pulse/stargazers)
+* **Stack:** PHP, Vue.js, Nextcloud App API | **License:** AGPL-3.0  
+* **Type:** ☁️ Nextcloud Integrated Live Polls & Quizzes  
+* **Overview:** An open-source interactive polling and quiz app embedded inside self-hosted Nextcloud instances. Generates live QR codes for attendee smartphone check-in, dynamic ranking questions, and leaderboards without relying on external cloud providers.
+
+---
+
+## 📊 Comprehensive Comparison at a Glance
+
+| Software | Model | License | Self-Hosted | Primary Specialty | Key Advantage |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Miro** | Commercial SaaS | Proprietary | ❌ | Infinite Visual Whiteboard | Largest ecosystem of templates, apps, and video integrations |
+| **Kahoot! 360** | Commercial SaaS | Proprietary | ❌ | Gamified Learning & Quizzes | Unrivaled participant excitement, music, and leaderboard mechanics |
+| **Mural** | Commercial SaaS | Proprietary | ❌ | Design Sprint & Agile Whiteboard | Facilitator private mode, built-in methods, and structured rooms |
+| **Slido** | Commercial SaaS | Proprietary | ❌ | Live Audience Q&A & Polling | Seamless embedding directly inside Zoom, Teams, and Webex |
+| **Mentimeter** | Commercial SaaS | Proprietary | ❌ | Interactive Slide Presentations | Beautiful real-time smartphone data visualizations & word clouds |
+| **SessionLab** | Commercial SaaS | Proprietary | ❌ | Workshop Agenda Architecture | Instant time recalculation and collaborative agenda library |
+| **Excalidraw** | Open Source | MIT | ✅ | Sketching & Visual Collaboration | Hand-drawn aesthetic, end-to-end encryption, lightweight canvas |
+| **AFFiNE** | Open Source | MIT | ✅ | Docs, Kanban & Infinite Canvas | Unifies documentation and whiteboarding into one workspace |
+| **tldraw** | Open Source | Apache-2.0 | ✅ | Embeddable Collaborative Canvas | Modern reactive architecture and powerful developer canvas SDK |
+| **BigBlueButton** | Open Source | LGPL-3.0 | ✅ | Interactive Virtual Classrooms | Native breakout rooms, multi-user boards, and WebRTC streaming |
+| **draw.io** | Open Source | Apache-2.0 | ✅ | Technical & Architecture Diagrams | Zero tracking, robust file export options, offline desktop apps |
+| **Whitebophir (WBO)** | Open Source | AGPL-3.0 | ✅ | Minimalist Fast Whiteboard | Instant browser link sharing without logins or heavy dependencies |
+| **Claper** | Open Source | AGPL-3.0 | ✅ | Interactive Keynotes & Polling | Modern Elixir/Phoenix stack, real-time live audience feedback |
+| **ClassQuiz** | Open Source | MPL-2.0 | ✅ | Competitive Classroom Quizzes | Independent self-hosted alternative to Kahoot! with leaderboards |
+| **Educates** | Open Source | Apache-2.0 | ✅ | Hands-on Technical Sandboxes | Automated Kubernetes student environments with VS Code & terminals |
+| **NeoBoard** | Open Source | Apache-2.0 | ✅ | Matrix Element Collaborative Board | Highest security data isolation for Matrix federation environments |
+| **SessionPlaner** | Open Source | GPL-2.0 | ✅ | BarCamp & Track Scheduling | Community-driven agenda planning and time-slot allocations |
+| **SessionPlan** | Open Source | MIT | ✅ | Zero-Backend Agenda Timelines | Completely URL-based state storage, zero server costs |
+| **OpenFresque** | Open Source | AGPL-3.0 | ✅ | Collective Intelligence Workshops | Tailored for environmental Fresque workshops and ticketing |
+| **open.mentimeter** | Open Source | MIT | ✅ | Air-Gapped Local Live Polls | Runs entirely offline over LAN for confidential security audits |
+| **Nextcloud Pulse** | Open Source | AGPL-3.0 | ✅ | Private Cloud Integrated Polling | Native integration with Nextcloud files, calendar, and contacts |
+
+---
+
+## 🎯 Choosing the Right Stack for Your Workshop
+
+```
+                      What type of workshop are you hosting?
+                                     │
+         ┌───────────────────────────┼───────────────────────────┐
+         ▼                           ▼                           ▼
+ 🎨 Visual Collaboration     📊 Audience Feedback         💻 Hands-on Technical
+   & Brainstorming             & Knowledge Check             Training / Labs
+         │                           │                           │
+  ┌──────┴──────┐             ┌──────┴──────┐             ┌──────┴──────┐
+  ▼             ▼             ▼             ▼             ▼             ▼
+SaaS:         OSS:          SaaS:         OSS:          SaaS:         OSS:
+Miro /        Excalidraw /  Mentimeter /  Claper /      Killercoda /  Educates /
+Mural         AFFiNE        Slido /       ClassQuiz /   Katacoda      Docker
+              tldraw        Kahoot! 360   open.menti                  Sandboxes
+```
+
+* 🚀 **For Enterprise Design Sprints & Innovation Camps:** Use **Miro** or **Mural** for commercial setups; choose **Excalidraw** or **AFFiNE** for self-hosted or privacy-mandated sessions.
+* 🎓 **For All-Hands, Keynotes & Interactive Webinars:** Use **Slido** or **Mentimeter** if integrated with video conferencing tools; deploy **Claper** or **ClassQuiz** for open-source audience engagement.
+* 🔒 **For Offline, Classified, or Defense Training:** Deploy **open.mentimeter** or **Whitebophir** over isolated local Wi-Fi router networks.
+* ⏱️ **For Agenda Timekeeping & Design:** Plan agendas with **SessionLab** (SaaS) or **SessionPlan** (OSS URL-based).
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of an open-source Virtual Workshop or Interactive Training tool that should be listed here, please open a pull request with:
+Contributions are warmly welcomed! Help us keep this directory up-to-date and representative of the evolving virtual collaboration ecosystem:
 
-- Project name and URL
-- Brief description (1–2 sentences)
-- Stack and license
-- Why it stands out
+1. 🍴 **Fork** the repository.
+2. 🌿 **Create** a descriptive branch (`git checkout -b feature/add-new-tool`).
+3. ✏️ **Add** the tool with its official GitHub link, star badge, tech stack, license, and unique value proposition.
+4. 🔄 **Submit** a Pull Request with a short summary of why the platform stands out.
 
-Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source. Note that the open-source ecosystem is fragmented across whiteboarding, polling, quizzes, and planning tools rather than unified workshop platforms.
+Please ensure all submitted open-source projects are actively maintained (commit activity or releases within the past 12 months).
 
 ---
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
+This repository and curated collection are licensed under [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/).  
+All trademarks, project names, and logos belong to their respective owners.
 
 ---
 
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+<p align="center">
+  ⭐ <b>Star this repository if you found it helpful for planning your next interactive session!</b> ⭐
+</p>
